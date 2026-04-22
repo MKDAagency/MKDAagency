@@ -1,27 +1,27 @@
 # MKDA Digital Marketing Agency
 
-We build digital products, AI automations and marketing systems for businesses that want more visibility and better control over their operations.
+MKDA builds digital products, AI automations and marketing systems for businesses that want more visibility and stronger operational control.
 
-## What we build
+## What we do
 
-- SaaS products
-- AI workflows for marketing and operations
-- Websites and landing pages
-- Internal tools and public demos
+- Build SaaS products
+- Create AI workflows for marketing and operations
+- Develop websites and landing pages
+- Design internal tools and public demos
 
-## Featured focus
+## Featured work
 
 ### ReviewBoost
-A product built to help businesses manage Google reviews with more structure, consistency and visibility.
+A platform designed to help businesses collect, track and improve Google reviews through QR codes, smart links and dashboard analytics.
 
-### Agency websites and landing pages
-Web experiences designed to support positioning, lead generation and product communication.
+### Web projects
+Websites and landing pages built to support positioning, lead generation and product communication.
 
 ### AI automations
-Workflows created to reduce repetitive tasks and improve execution speed.
+Workflows designed to reduce repetitive work and improve execution across marketing and operations.
 
 ### Internal tools
-Practical tools built to simplify daily marketing and operational work.
+Selected tools created to simplify daily processes and support faster delivery.
 
 ## Tech stack
 
@@ -33,9 +33,9 @@ Supabase
 Resend  
 OpenAI API
 
-## Explore our work
+## Explore the repositories
 
-Take a look at the pinned repositories below to see products, experiments and workflows built by MKDA.
+The pinned repositories below show selected products, workflows and experiments developed by MKDA.
 
 ## Contact
 
