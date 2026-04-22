@@ -31,10 +31,14 @@ TypeScript
 Vercel  
 Supabase  
 Stripe  
-resend    
-OpenAi  
-Anthropic  
-Google  
+Resend    
+
+## AI tools
+
+OpenAI  
+Claude  
+Gemini  
+Kimi
 
 ## Explore the repositories
 
