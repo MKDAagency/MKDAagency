@@ -1,16 +1,44 @@
-## Hi there 👋
+# MKDA Digital Marketing Agency
 
-<!--
-**MKDAagency/MKDAagency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build digital products, AI automations and marketing systems for brands that need visibility and better operations.
 
-Here are some ideas to get you started:
+## What you will find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SaaS products and internal tools
+- AI workflows for marketing and operations
+- Websites and landing pages
+- Public demos and technical experiments
+
+## Featured projects
+
+### ReviewBoost
+A product designed to help businesses manage Google reviews with more order, visibility and continuity.
+
+### MKDA Agency Website
+Our agency website and related landing pages.
+
+### AI Automation Workflows
+Selected workflows and experiments used to simplify repetitive work.
+
+### Internal Marketing Tools
+Small tools built to speed up execution, reporting and content operations.
+
+## Tech stack
+
+Next.js  
+React  
+TypeScript  
+Vercel  
+Supabase  
+Resend  
+OpenAI API
+
+## Contact
+
+Website: https://mkdaagency.com  
+Email: mkdadigitalmarketing@gmail.com
+
+## About MKDA
+
+You have the project.  
+We make it visible.
