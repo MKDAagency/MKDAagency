@@ -29,9 +29,13 @@ Next.js
 React  
 TypeScript  
 Vercel  
-Supabase  
+Supabase
+Stripe
 Resend  
 OpenAI API
+Claude
+Kimi
+Gemini
 
 ## Explore the repositories
 
